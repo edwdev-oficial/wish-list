@@ -10,7 +10,6 @@
             <plural>Display names</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-16 00:29:02</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Display name</sys_name>
             <sys_package display_value="Wish List" source="x_708038_wish_list">58e63fa32f64f5109557235df699b656</sys_package>
@@ -18,7 +17,6 @@
             <sys_scope display_value="Wish List">58e63fa32f64f5109557235df699b656</sys_scope>
             <sys_update_name>sys_documentation_x_708038_wish_list_wish_item_display_name_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-16 00:29:02</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
